@@ -1,0 +1,108 @@
+body {
+    background-image: url('../stylesheets/home-bg.jpg');
+    background-size: cover;
+    color: white;
+    padding-top: 5px;
+}
+
+img {
+    width: 200px;
+    height: 40px;
+}
+
+.concept_img {
+    width: 500px;
+    height: auto;
+}
+
+.content {
+    text-align: center;
+}
+
+h1 {
+    padding-top: 150px;
+    color: red;
+    font-size: 50px;
+}
+
+form p1 {
+    font-size: 20px;
+    color: white;
+    padding: 5px;
+}
+
+input {
+    padding: 8px;
+    font-size: 12px;
+}
+
+.description {
+    font-size: 18px;
+    color: #fff;
+    max-width: 800px;
+    margin: 0 auto 30px;
+    line-height: 1.6;
+}
+
+.technologies {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
+
+.technologies h2 {
+    color: #fff;
+    font-size: 24px;
+    margin-top: 0;
+}
+
+.technologies ul {
+    list-style: none;
+    padding: 0;
+    margin: 10px 0;
+}
+
+.technologies li {
+    font-size: 18px;
+    color: #fff;
+    margin-bottom: 5px;
+}
+
+.content {
+    text-align: center;
+    padding: 0 20px;
+}
+
+
+nav {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 10px 20px;
+}
+
+nav img {
+    width: 100px;
+    height: auto;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    padding: 14px 16px; 
+}
+
+
+nav ul li a:hover {
+    background-color: rgba(255, 255, 255, 0.2); 
+}
